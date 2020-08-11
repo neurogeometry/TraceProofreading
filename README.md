@@ -20,6 +20,7 @@ Our understanding of synaptic connectivity in the brain relies on the ability to
 
 # Developers
 Seyed Mostafa Mousavi Kahaki 
+</br>
 Armen Stepanyants
 
 # License
