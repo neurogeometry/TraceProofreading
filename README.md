@@ -34,5 +34,5 @@ Armen Stepanyants:a.stepanyants[at]northeastern.edu
 Copyright 2020 Northeastern University.
 
 </br>
-This project has been supported by the **National Institude of Health (NIH)**
+This project has been supported by the <b>National Institude of Health (NIH)</b>
 </br></br>
