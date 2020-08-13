@@ -17,7 +17,7 @@ We developed an automated trace proofreading approach that utilizes machine lear
 </br></br>
 <img src="https://web.northeastern.edu/kahaki/GithubImage2.png" alt="Registrar" align="middle" width="50%" height="50%">
 
-## Algorith Results
+## Output
 Machine-learning can be used to substantially reduce the number of topological errors contained in automated traces
 </br></br>
 <img src="https://web.northeastern.edu/kahaki/GithubImage1.png" alt="Registrar" align="middle" width="60%" height="60%">
