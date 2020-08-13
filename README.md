@@ -1,8 +1,10 @@
 # TraceProofreading
 
+**Trace Proofreading** a machine learning based method for detection and correction of topologcal errors of automated neuron traces.
+
 Copyright 2020 Northeastern University
 </br>
-This project has been supported by the National Institude of Health (NIH)
+This project has been supported by the **National Institude of Health (NIH)**
 </br></br>
 
 
@@ -18,10 +20,13 @@ Our understanding of synaptic connectivity in the brain relies on the ability to
 # Machine-learning can be used to substantially reduce the number of topological errors contained in automated traces
 <img src="https://web.northeastern.edu/kahaki/GithubImage1.png" alt="Registrar" align="middle">
 
-# Developers
-Seyed Mostafa Mousavi Kahaki 
+# Dataset
+
+
+# Contact
+Seyed Mostafa Mousavi Kahaki: mousavikahaki@gmail.com
 </br>
-Armen Stepanyants
+Armen Stepanyants: a.stepanyants@northeastern.edu
 
 # License
  
