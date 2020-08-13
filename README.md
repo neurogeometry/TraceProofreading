@@ -1,4 +1,4 @@
-## TraceProofreading
+## Trace Proofreading
 
 **Trace Proofreading** is a machine learning based method for detection and correction of topologcal errors in automated neuron tracing which is essential for accurate mapping of connectivity on the scale of the whole brain.
 
