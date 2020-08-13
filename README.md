@@ -8,7 +8,7 @@ Our understanding of synaptic connectivity in the brain relies on the ability to
 
 
 ## Topological errors in initial automated traces of neurites
-<img src="https://web.northeastern.edu/kahaki/GithubImage0.png" alt="Registrar" align="middle"> 
+<img src="https://web.northeastern.edu/kahaki/GithubImage0.png" alt="Registrar" align="middle" width="200" height="200"> 
  
 ## Neural network for correcting topological errors 
 <img src="https://web.northeastern.edu/kahaki/GithubImage2.png" alt="Registrar" align="middle">
