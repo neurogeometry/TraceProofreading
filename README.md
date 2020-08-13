@@ -8,13 +8,13 @@ Our understanding of synaptic connectivity in the brain relies on the ability to
 
 
 ## Topological errors in initial automated traces of neurites
-<img src="https://web.northeastern.edu/kahaki/GithubImage0.png" alt="Registrar" align="middle" width="500" height="500"> 
+<img src="https://web.northeastern.edu/kahaki/GithubImage0.png" alt="Registrar" align="middle" width="70%" height="70%"> 
  
 ## Neural network for correcting topological errors 
-<img src="https://web.northeastern.edu/kahaki/GithubImage2.png" alt="Registrar" align="middle">
+<img src="https://web.northeastern.edu/kahaki/GithubImage2.png" alt="Registrar" align="middle" width="70%" height="70%>
 
 ## Machine-learning can be used to substantially reduce the number of topological errors contained in automated traces ##
-<img src="https://web.northeastern.edu/kahaki/GithubImage1.png" alt="Registrar" align="middle">
+<img src="https://web.northeastern.edu/kahaki/GithubImage1.png" alt="Registrar" align="middle" width="70%" height="70%>
 
 ## Dataset
 
