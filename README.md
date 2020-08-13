@@ -1,6 +1,6 @@
 ## Trace Proofreading
 
-**Trace Proofreading** is a machine learning based method for detection and correction of topologcal errors in automated neuron traces. This is essential for accurate mapping of structural connectivity.
+Trace proofreading is a machine learning based method for detection and correction of topologcal errors in automated neuron traces. This is essential for accurate mapping of structural connectivity.
 
 
 ## Summary
@@ -13,7 +13,7 @@ Traces of neurons obtained from 3D optical microscopy stacks of images unavoidab
 <img src="https://web.northeastern.edu/kahaki/GithubImage0.png" alt="Registrar" align="middle" width="60%" height="60%"> 
  
 ## Contact
-Seyed Mostafa Mousavi Kahaki: mousavikahaki[at]gmail.com
+Seyed Mostafa Mousavi Kahaki: mousavikahaki@gmail.com
 </br>
-Armen Stepanyants:a.stepanyants[at]northeastern.edu
+Armen Stepanyants: a.stepanyants@northeastern.edu
 
