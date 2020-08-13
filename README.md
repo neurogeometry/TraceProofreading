@@ -12,27 +12,8 @@ Traces of neurons obtained from 3D optical microscopy stacks of images unavoidab
 </br></br>
 <img src="https://web.northeastern.edu/kahaki/GithubImage0.png" alt="Registrar" align="middle" width="60%" height="60%"> 
  
-## Neural network model for correcting topological errors 
-We developed an automated trace proofreading approach that utilizes machine learning to correct trace topology.
-</br></br>
-<img src="https://web.northeastern.edu/kahaki/GithubImage2.png" alt="Registrar" align="middle" width="50%" height="50%">
-
-## Output
-Machine-learning can be used to substantially reduce the number of topological errors contained in automated traces
-</br></br>
-<img src="https://web.northeastern.edu/kahaki/GithubImage1.png" alt="Registrar" align="middle" width="60%" height="60%">
-
-## Dataset
-The results of this study are based on the analyses of the dataset of Neocortical Layer 1 Axons featured at the DIADEM challenge. It consists of 16 3D stacks of images (512×512×33-60 voxels) of fluorescently labeled axons of multiple layer 6 neurons imaged with a two-photon microscope in layer 1 of the mouse visual cortex.
-
 ## Contact
 Seyed Mostafa Mousavi Kahaki: mousavikahaki[at]gmail.com
 </br>
 Armen Stepanyants:a.stepanyants[at]northeastern.edu
 
-## License ##
-Copyright 2020 Northeastern University.
-
-</br>
-This project has been supported by the <b>National Institude of Health (NIH)</b>
-</br></br>
