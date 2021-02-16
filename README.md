@@ -12,6 +12,9 @@ Traces of neurons obtained from 3D optical microscopy stacks of images unavoidab
 </br></br>
 <img src="https://web.northeastern.edu/kahaki/GithubImage0.png" alt="Registrar" align="middle" width="60%" height="60%"> 
  
+## Publication
+Seyed Mostafa Mousavi Kahaki, Hang Deng, and Armen Stepanyants "Correction of topological errors in automated traces of neurites", Proc. SPIE 11596, Medical Imaging 2021: Image Processing, 115961Q (15 February 2021); https://doi.org/10.1117/12.2581247
+
 ## Contact
 Seyed Mostafa Mousavi Kahaki: mousavikahaki@gmail.com
 </br>
